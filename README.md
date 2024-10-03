@@ -54,9 +54,9 @@
 
 ### 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/obaid-ali-559a6b288/)
-- [Facebook](https://web.facebook.com/baid.ali.92?_rdc=1&_rdr)
-- [Portfolio](https://obaidali.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obaid-ali-559a6b288/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/baid.ali.92?_rdc=1&_rdr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://obaidali.netlify.app/)
 
 ---
 
