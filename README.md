@@ -19,6 +19,7 @@
 ![Zod](https://img.shields.io/badge/Zod-3D6D92?style=for-the-badge&logo=zod&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -40,6 +41,10 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-4B0082?style=for-the-badge&logo=think&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-FFA500?style=for-the-badge&logo=algo&logoColor=white)
+![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-008080?style=for-the-badge&logo=oop&logoColor=white)
+
 
 
 
@@ -56,7 +61,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obaid-ali-559a6b288/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/baid.ali.92?_rdc=1&_rdr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://obaidali.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://obaids-portfolio.netlify.app/)
 
 ---
 
