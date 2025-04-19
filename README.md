@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Obaid Ali Siddiqui
 
 - 🚀 **Frontend Full-stack Developer** focused on building user-friendly applications using the MERN stack.
-- 🌱 Currently improving my skills in **MERN stack** and learning new technologies.
-- 💡 I'm looking to collaborate on:Fullstack projects
+- 🌱 Currently improving my skills in **MERN stack** and exploring LLM integration to build intelligent applications..
 - 🎓 I am currently pursuing **BSIT** at **Islamia College**, affiliated with **Punjab University**.
 
 ---
