@@ -2,7 +2,7 @@
 
 - 🚀 **Full-stack Developer** focused on building user-friendly applications using the MERN stack.
 - 🌱 Currently improving my skills in **MERN stack** and exploring LLM integration to build intelligent applications..
-- 🎓 I am currently pursuing **BSIT** at **Islamia College**, affiliated with **Punjab University**.
+- 🎓 I am currently pursuing **BSIT** at **Islamia College**, affiliated with **University of the Punjab**.
 
 ---
 
